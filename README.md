@@ -1,4 +1,4 @@
-# Goodbayxp.exe
+# Goodbyexp.exe
 At the end of xp support
 This is the one that appears when xp is no longer supported.
 This was taken from an actual xp machine
